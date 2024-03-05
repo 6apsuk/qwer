@@ -1,0 +1,14 @@
+.
+├── 123.py
+├── README.md
+├── cat1
+│   ├── cat2
+│   │   └── cat5
+│   └── cat8
+├── dir
+│   └── curent_date
+├── lab1
+├── lab2
+└── link1 -> dir/date/
+
+6 directories, 6 files
